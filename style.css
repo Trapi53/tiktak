@@ -1,0 +1,18 @@
+article {
+  display: grid;
+  grid-template-rows: 100px 100px 100px;
+  grid-template-columns: 100px 100px 100px;
+  padding: 15px;
+  border: 5px solid black;
+  width: 300px;
+}
+.mutyo {
+  border: 1px solid #494136;
+}
+body {
+  margin: auto;
+}
+header {
+  font-size: 50px;
+  color: red;
+}
